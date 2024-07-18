@@ -1,3 +1,3 @@
 # MDA-Net
 
-Code will be pulic soon.
+Code will be public soon.
