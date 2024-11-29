@@ -1,5 +1,6 @@
 ## Multi-degradation-adaptation network for fundus image enhancement with degradation representation learning (Medical Image Analysis 2024)
 ---
+Official Pytorch implementation
 ### Training
 ---
 ```sh train_from_scratch.sh```
